@@ -1,5 +1,7 @@
 # [Hello World](https://helloworldtwitterclonegraphql.netlify.app/)
 
+This project is a social media app more like a basic functional twitter, with post, comment likes features.
+
 ## Available Scripts
 
 In the project directory, you can run:
