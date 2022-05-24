@@ -1,6 +1,6 @@
 # [Hello World](https://helloworldtwitterclonegraphql.netlify.app/)
 
-This project is a social media app more like a basic functional twitter, with post, comment likes features.
+This project is a social media app more like a basic functional twitter, with post, comment likes features. Build using React.js and GraphQL endpoints
 
 ## Available Scripts
 
