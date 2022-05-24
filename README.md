@@ -7,7 +7,9 @@ This project is a social media app more like a basic functional twitter, with po
 React
 GraphQL
 
-## Available Scripts
+## Get Started
+
+### `npm install`
 
 In the project directory, you can run:
 
